@@ -1,0 +1,12 @@
+# Node modules
+frontend/node_modules
+
+# Laravel dependencies
+backend/vendor
+
+# Environment files
+backend/.env
+frontend/.env
+
+# Build files
+frontend/build
